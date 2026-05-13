@@ -1,4 +1,4 @@
----
+<a href="https://dontkillmyapp.com/htc"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/htc3.svg"></a>---
 manufacturer:
     - htc
 
